@@ -19,3 +19,20 @@
 - environment variables (dotenv)
 - morgan logger (inside /simple-server)
 - example of REST-API (/rest-server)
+
+### 3.5
+[08.11.2022] - Модуль 3 - Заняття 5: База даних MongoDB
+- no code!
+- theoretical lecture about SQL and noSQL databases, MongoAtlas and MongoDBCompass
+
+### 3.6
+[09.11.2022] - Модуль 3 - Заняття 6: ODM Mongoose
+- rest api server example
+- connection to MongoDB
+- requests to MongoDB
+
+### 4.7 
+[21.11.2022] - Модуль 4 - Заняття 7-8: Аутентифікація та авторизація
+- `jsonwebtoken` library example
+- `bcrypt` example
+- `sha256` example
