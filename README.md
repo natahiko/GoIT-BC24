@@ -31,8 +31,13 @@
 - connection to MongoDB
 - requests to MongoDB
 
-### 4.7 
+### 4.7
 [21.11.2022] - Модуль 4 - Заняття 7-8: Аутентифікація та авторизація
 - `jsonwebtoken` library example
 - `bcrypt` example
 - `sha256` example
+
+### 4.8
+[21.11.2022] - Модуль 4 - Заняття 7-8: Аутентифікація та авторизація
+- all auth endpoints example
+- validation with `joi` library
