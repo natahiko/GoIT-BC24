@@ -46,3 +46,7 @@
 [05.12.2022] - Модуль 5 - Заняття 9: Робота з файлами
 - multer library
 - pagination for mongoose (endpoint GET /users)
+
+### 5.9
+[07.12.2022] - Модуль 5 - Заняття 10: Тестування додатків
+- jest example
