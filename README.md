@@ -47,6 +47,13 @@
 - multer library
 - pagination for mongoose (endpoint GET /users)
 
-### 5.9
+### 5.10
 [07.12.2022] - Модуль 5 - Заняття 10: Тестування додатків
 - jest example
+
+### 6.11
+[12.12.2022] - Модуль 6 - Заняття 11: Робота з email та Docker
+- extended project from 5.9
+- nodemailer
+- sendGrid
+- Docker file example
