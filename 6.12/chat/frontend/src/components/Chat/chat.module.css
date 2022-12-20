@@ -1,0 +1,41 @@
+.chat {
+    width: 500px;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.message {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.youMessage {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    margin-right: 100px;
+}
+
+.userMessage {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: lightblue;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+
+.youMessage span, .userMessage span {
+    font-weight: bold;
+}
+
+.empty {
+    color: gray;
+    font-style: italic;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+
+.messageInput {
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.messageButton {
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: #333333;
+    color: #efefef;
+}
+
+.form {
+    margin-bottom: 10px;
+}

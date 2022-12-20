@@ -57,3 +57,8 @@
 - nodemailer
 - sendGrid
 - Docker file example
+- 
+### 6.12
+[19.12.2022] - Модуль 6 - Заняття 12: Web-sockets
+- webSockerServer example
+- Socket.io chat example

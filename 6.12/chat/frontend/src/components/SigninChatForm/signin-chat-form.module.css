@@ -1,0 +1,11 @@
+.form input {
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.form button {
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: #333333;
+    color: #efefef;
+}
